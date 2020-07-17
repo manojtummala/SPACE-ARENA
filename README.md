@@ -1,2 +1,2 @@
 # SPACE-ARENA
-<p align="center"><img src="images/Screenshot (4).png"></p>
+<p align="center"><img src="images/game1.png.png"></p>

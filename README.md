@@ -93,4 +93,4 @@ class Player(Sprite):
 ```
 Here "__init__" is the constructor that hepls in contruction of the desired class.
 
-So the code also has the commets for thr reader to follow up.
+So the code also has the commets for the reader to follow up.
